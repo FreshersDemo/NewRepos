@@ -16,7 +16,7 @@ public class CurrencyConverterController {
 	{
 		return "CurrencyConverter";
 	}
-	@RequestMapping(value ="/Currency1", method = RequestMethod.POST)
+	@RequestMapping(value ="/Currency", method = RequestMethod.POST)
 	public String gethomepage (@RequestParam float rupees,ModelMap model) 
 	{
 	

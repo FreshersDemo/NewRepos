@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Currency Convertor</title>
 </head>
 <body>
-<form action="/Currency1" method="Post"> 
+<form action="/Currency" method="Post"> 
 <br><br>Enter Rupees<input name="rupees" type="number"/><br><br> <br> 
 <input type="submit"/>  </form>
 ${dollars}
